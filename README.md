@@ -102,3 +102,4 @@ A secure file sharing system that uses hybrid cryptography, combining AES and RS
 - **Moammar Saddam - Backend Development**
 - **Putri Cellyenda - Frontend Development**
 - **Aira Putri Deninta - Documentation**
+- **Muhamad Ridho Ramadhan - Documentation**
